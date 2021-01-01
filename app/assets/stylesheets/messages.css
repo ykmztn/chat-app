@@ -22,7 +22,7 @@
   text-decoration: none;
 }
 
-.create-room a{
+.create-room a {
   font-size: 10px;
   color: deepskyblue;
   border: 1px solid lightblue;
@@ -38,7 +38,7 @@
   overflow: scroll;
 }
 
-.room{
+.room {
   padding: 20px 0 40px;
 }
 
@@ -59,13 +59,13 @@
   justify-content: space-between;
 }
 
-.header-title{
+.header-title { 
   font-size: 24px;
   color: #333;
   margin-top: 36px;
 }
 
-.header-button{
+.header-button {
   margin-top: 40px;
 }
 
@@ -83,31 +83,30 @@
   overflow: scroll;
 }
 
-.message{
+.message {
   margin: 10px 0 0 0;  
 }
 
-.upper-message{
+.upper-message {
   display:flex;
 }
 
-.message-user{
+.message-user {
   font-size: 16px;
   color: #434A54;
 }
 
-.message-date{
+.message-date {
   font-size: 12px;
   color: #999;
   padding-left: 10px;
 }
 
-.lower-message{
-  
+.lower-message {
   margin-top: 10px;
 }
 
-.message-content{
+.message-content {
   font-size: 14px;
   color: #434A54;
   margin-bottom: 40px;
@@ -120,13 +119,13 @@
   display: flex;
 }
 
-.form-input{
+.form-input {
   background-color: white;
   width: 100%;
   display: flex;
 }
 
-.form-message{
+.form-message {
   border: none;
   padding-left: 10px;
   height: 50px;
@@ -134,7 +133,7 @@
 
 }
 
-.form-submit{
+.form-submit {
   font-size: 16px;
   color: white;
   background-color: #38AEF0;
@@ -144,7 +143,7 @@
   padding: 0 20px;
 }
 
-.form-image{
+.form-image {
   font-size: 12px;
   background-color: lightblue;
   color: white;
@@ -154,6 +153,6 @@
   text-align: center;
 }
 
-.hidden{
+.hidden {
   display: none;
 }
